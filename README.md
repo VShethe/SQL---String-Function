@@ -102,6 +102,7 @@
   SELECT 
       CONCAT(author_fname, REVERSE(author_fname)) 
   FROM books;
+  
 ![17](https://user-images.githubusercontent.com/128286364/231876078-c51fdc91-5d3f-4b67-b79c-d1e027a849b5.png)
 
 
