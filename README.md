@@ -54,7 +54,8 @@
     	author_fname AS first, author_lname AS last, 
     	CONCAT(author_fname, ' ', author_lname) AS full
     FROM books;
-![5](https://user-images.githubusercontent.com/128286364/231874258-2d861a6d-44ee-4b2f-95b8-c77eaabab31d.png)
+![6](https://user-images.githubusercontent.com/128286364/231877259-8c07e718-90fb-47f9-906d-db8f504db283.png)
+
 
     SELECT
     CONCAT
