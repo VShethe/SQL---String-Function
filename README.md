@@ -20,7 +20,9 @@
 **String Function:**
 
 **1. Books Data**
+
     CREATE DATABASE book_shop
+    
 ![1](https://user-images.githubusercontent.com/128286364/231873312-b0adec9e-06c0-4b36-963f-ec7140616762.png)
 
     CREATE TABLE books 
