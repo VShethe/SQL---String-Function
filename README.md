@@ -50,8 +50,9 @@
 
 **2. Concat**
 
-    SELECT author_fname AS first, author_lname AS last, 
-    CONCAT(author_fname, ' ', author_lname) AS full
+    SELECT 
+    	author_fname AS first, author_lname AS last, 
+    	CONCAT(author_fname, ' ', author_lname) AS full
     FROM books;
 ![5](https://user-images.githubusercontent.com/128286364/231874258-2d861a6d-44ee-4b2f-95b8-c77eaabab31d.png)
 
